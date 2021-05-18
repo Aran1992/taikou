@@ -23,7 +23,7 @@ GenuineIntel
 6 Family 14 Model 10 Stepping 0 BrandID
 KINDCPU:µL™kßPßOºtµPID°C
 •i®œ•ŒRDTSC©R•O°C
-3003.561MHz
+3012.469MHz
 #DeviveName
 #ScreenMode
 •i≈‹¶°µe≠±º“¶°
@@ -33,8 +33,8 @@ KINDCPU:µL™kßPßOºtµPID°C
      720Å~ 400 True Color(32bit)
      720Å~ 400 True Color(32bit)
      720Å~ 400 True Color(32bit)
-Åô   800Å~ 600 True Color(32bit)
-Åô   800Å~ 600 True Color(32bit)
+     800Å~ 600 True Color(32bit)
+     800Å~ 600 True Color(32bit)
     1024Å~ 768 True Color(32bit)
     1024Å~ 768 True Color(32bit)
     1152Å~ 864 True Color(32bit)
@@ -53,8 +53,8 @@ KINDCPU:µL™kßPßOºtµPID°C
     1680Å~1050 True Color(32bit)
     1680Å~1050 True Color(32bit)
     1680Å~1050 True Color(32bit)
-    1920Å~1080 True Color(32bit)
+Åô  1920Å~1080 True Color(32bit)
 #FileVersion
-SHELL32.DLL : Version 10.0.19041.906 
+SHELL32.DLL : Version 10.0.19041.964 
 COMCTL32.DLL : Version 5.82.19041.844 
  
