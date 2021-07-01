@@ -17,43 +17,160 @@ Microsoft Windows NT(?) version 6.2  (Build 9200)
 MEMORY : 2047M
 #CPU
 CPU : Pentium 
-GenuineIntel
+AuthenticAMD
 ¿À¥˙•X§FMMX©R•O°C
 ¿À¥˙•X§FSIMD ¬X±i©R•O°C
-6 Family 14 Model 10 Stepping 0 BrandID
+15 Family 8 Model 1 Stepping 0 BrandID
 KINDCPU:µL™kßPßOºtµPID°C
 •i®œ•ŒRDTSC©R•O°C
-3002.235MHz
+2127.642MHz
 #DeviveName
 #ScreenMode
 •i≈‹¶°µe≠±º“¶°
      640Å~ 480 True Color(32bit)
      640Å~ 480 True Color(32bit)
+     640Å~ 480 True Color(32bit)
      720Å~ 400 True Color(32bit)
      720Å~ 400 True Color(32bit)
      720Å~ 400 True Color(32bit)
      720Å~ 400 True Color(32bit)
-     800Å~ 600 True Color(32bit)
-     800Å~ 600 True Color(32bit)
+     720Å~ 480 True Color(32bit)
+     720Å~ 480 True Color(32bit)
+     720Å~ 576 True Color(32bit)
+     720Å~ 576 True Color(32bit)
+     720Å~ 576 True Color(32bit)
+     720Å~ 576 True Color(32bit)
+Åô   800Å~ 600 True Color(32bit)
+Åô   800Å~ 600 True Color(32bit)
     1024Å~ 768 True Color(32bit)
     1024Å~ 768 True Color(32bit)
     1152Å~ 864 True Color(32bit)
     1152Å~ 864 True Color(32bit)
     1152Å~ 864 True Color(32bit)
     1152Å~ 864 True Color(32bit)
-    1280Å~ 720 True Color(32bit)
-    1280Å~ 720 True Color(32bit)
-    1280Å~ 720 True Color(32bit)
     1280Å~ 720 True Color(32bit)
     1280Å~ 720 True Color(32bit)
     1280Å~ 720 True Color(32bit)
     1280Å~1024 True Color(32bit)
     1280Å~1024 True Color(32bit)
     1600Å~ 900 True Color(32bit)
+    1600Å~ 900 True Color(32bit)
+    1600Å~ 900 True Color(32bit)
+    1600Å~1200 True Color(32bit)
     1680Å~1050 True Color(32bit)
     1680Å~1050 True Color(32bit)
     1680Å~1050 True Color(32bit)
-Åô  1920Å~1080 True Color(32bit)
+    1680Å~1050 True Color(32bit)
+    1680Å~1050 True Color(32bit)
+    1680Å~1050 True Color(32bit)
+    1680Å~1050 True Color(32bit)
+    1680Å~1050 True Color(32bit)
+    1680Å~1050 True Color(32bit)
+    1920Å~1080 True Color(32bit)
+    1920Å~1080 True Color(32bit)
+    1920Å~1080 True Color(32bit)
+    1920Å~1200 True Color(32bit)
+    1920Å~1200 True Color(32bit)
+    1920Å~1200 True Color(32bit)
+    2048Å~1080 True Color(32bit)
+    2048Å~1080 True Color(32bit)
+    2560Å~1440 True Color(32bit)
+     640Å~ 480 High Color
+     640Å~ 480 High Color
+     640Å~ 480 High Color
+     720Å~ 400 High Color
+     720Å~ 400 High Color
+     720Å~ 400 High Color
+     720Å~ 400 High Color
+     720Å~ 480 High Color
+     720Å~ 480 High Color
+     720Å~ 576 High Color
+     720Å~ 576 High Color
+     720Å~ 576 High Color
+     720Å~ 576 High Color
+     800Å~ 600 High Color
+     800Å~ 600 High Color
+    1024Å~ 768 High Color
+    1024Å~ 768 High Color
+    1152Å~ 864 High Color
+    1152Å~ 864 High Color
+    1152Å~ 864 High Color
+    1152Å~ 864 High Color
+    1280Å~ 720 High Color
+    1280Å~ 720 High Color
+    1280Å~ 720 High Color
+    1280Å~1024 High Color
+    1280Å~1024 High Color
+    1600Å~ 900 High Color
+    1600Å~ 900 High Color
+    1600Å~ 900 High Color
+    1600Å~1200 High Color
+    1680Å~1050 High Color
+    1680Å~1050 High Color
+    1680Å~1050 High Color
+    1680Å~1050 High Color
+    1680Å~1050 High Color
+    1680Å~1050 High Color
+    1680Å~1050 High Color
+    1680Å~1050 High Color
+    1680Å~1050 High Color
+    1920Å~1080 High Color
+    1920Å~1080 High Color
+    1920Å~1080 High Color
+    1920Å~1200 High Color
+    1920Å~1200 High Color
+    1920Å~1200 High Color
+    2048Å~1080 High Color
+    2048Å~1080 High Color
+    2560Å~1440 High Color
+     640Å~ 480 256¶‚
+     640Å~ 480 256¶‚
+     640Å~ 480 256¶‚
+     720Å~ 400 256¶‚
+     720Å~ 400 256¶‚
+     720Å~ 400 256¶‚
+     720Å~ 400 256¶‚
+     720Å~ 480 256¶‚
+     720Å~ 480 256¶‚
+     720Å~ 576 256¶‚
+     720Å~ 576 256¶‚
+     720Å~ 576 256¶‚
+     720Å~ 576 256¶‚
+     800Å~ 600 256¶‚
+     800Å~ 600 256¶‚
+    1024Å~ 768 256¶‚
+    1024Å~ 768 256¶‚
+    1152Å~ 864 256¶‚
+    1152Å~ 864 256¶‚
+    1152Å~ 864 256¶‚
+    1152Å~ 864 256¶‚
+    1280Å~ 720 256¶‚
+    1280Å~ 720 256¶‚
+    1280Å~ 720 256¶‚
+    1280Å~1024 256¶‚
+    1280Å~1024 256¶‚
+    1600Å~ 900 256¶‚
+    1600Å~ 900 256¶‚
+    1600Å~ 900 256¶‚
+    1600Å~1200 256¶‚
+    1680Å~1050 256¶‚
+    1680Å~1050 256¶‚
+    1680Å~1050 256¶‚
+    1680Å~1050 256¶‚
+    1680Å~1050 256¶‚
+    1680Å~1050 256¶‚
+    1680Å~1050 256¶‚
+    1680Å~1050 256¶‚
+    1680Å~1050 256¶‚
+    1920Å~1080 256¶‚
+    1920Å~1080 256¶‚
+    1920Å~1080 256¶‚
+    1920Å~1200 256¶‚
+    1920Å~1200 256¶‚
+    1920Å~1200 256¶‚
+    2048Å~1080 256¶‚
+    2048Å~1080 256¶‚
+    2560Å~1440 256¶‚
 #FileVersion
 SHELL32.DLL : Version 10.0.19041.1023 
 COMCTL32.DLL : Version 5.82.19041.844 
